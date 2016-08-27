@@ -1,0 +1,2 @@
+C:\Users\don\AppData\Local\Temporary Projects\VideoSLicer\bin\Debug\VideoSLicer.exe.config
+C:\Users\don\Documents\Visual Studio 2015\Projects\VideoSLicer\VideoSLicer\bin\Debug\VideoSLicer.exe.config
